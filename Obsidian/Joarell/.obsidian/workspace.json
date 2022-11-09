@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "ec3fe0ba74e61440",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20a845003c3e882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccab6b430a5896a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f02c742d1333a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8ca7f9346858b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ca87b0a5832854",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfc8c1d19ad4924b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62090208df4c1bbe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1508dd848bfe186",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef41f5441116bf91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dcb719fab8ca35a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "898c977638449fd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ff35020fcdcdfcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58b073f840b460e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f23e6c93e10538e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 490.5
+  },
+  "active": "ccab6b430a5896a8",
+  "lastOpenFiles": [
+    "Web-Dev/Generators.md",
+    "Web-Dev/Promises.md",
+    "Web-Dev/JavaScript.md",
+    "Web-Dev/FEC.md",
+    "Web-Dev/GEC.md",
+    "FullStack-Study/Services.md",
+    "FullStack-Study/IaaS.md",
+    "FullStack-Study/Cloud.md",
+    "Web_Crater/Mind Map - Web Crater.md",
+    "Web_Crater/Kanban.md"
+  ]
+}
